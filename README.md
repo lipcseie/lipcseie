@@ -21,10 +21,15 @@ At GFA, I've had the privilege of diving deep into the complex world of programm
 ## Get in Touch
 
 I'm always eager to connect with fellow coders, creators, and dreamers. Whether you want to discuss coding, share experiences, or collaborate on exciting projects, feel free to reach out to me. 
+<div align="left"> 
+  <a href="mailto:mailto:lipcsei.e@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/edit-lipcsei-229091278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-📫 Reach me via Email: [📧](mailto:lipcsei.e@gmail.com)
-
-🌐 Connect on LinkedIn: [<img align="middle" alt="LinkedIn" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/edit-lipcsei-229091278/)
+</div>
 
 
 ## 💻 Languages and Tools
@@ -41,6 +46,9 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br />
+
+
+
 
 
 
