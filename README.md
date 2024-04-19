@@ -49,7 +49,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 ## My GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/users/YourUsername/contributions" alt="GitHub Contribution Graph">
+  <img src="https://github.com/users/lipcseie/contributions" alt="GitHub Contribution Graph">
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark&exclude_repo=EducationPortal,MovieCatalog)
