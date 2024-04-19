@@ -50,7 +50,6 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lipcseie)](https://git.io/streak-stats)
 
 
 
