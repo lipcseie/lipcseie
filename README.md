@@ -48,7 +48,8 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 ## My GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://github.com/users/lipcseie/contributions)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/lipcseie/lipcseie)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark&exclude_repo=EducationPortal,MovieCatalog)
