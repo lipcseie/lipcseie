@@ -32,10 +32,11 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 </div>
 
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lipcseie&theme=dark)](https://git.io/streak-stats)
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ## 💻 Languages and Tools
 
