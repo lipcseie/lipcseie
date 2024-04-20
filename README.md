@@ -46,11 +46,10 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <br />
 
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=lipcseie" alt="GitHub Streak">
-  </a>
-</p>
+<div style="text-align: left; filter: brightness(50%);">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=lipcseie)](https://git.io/streak-stats)
+</div>
+
 
 
 
