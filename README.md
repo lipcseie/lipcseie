@@ -45,13 +45,15 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <br />
 
-<div style="margin-top: 20px;">
+
 <p align="left">
   <a href="https://git.io/streak-stats">
+    <div style="margin-top: 20px;">
     <img src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
+    </div>
   </a>
 </p>
-</div>
+
 
 
 
