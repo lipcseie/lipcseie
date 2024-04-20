@@ -33,7 +33,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=lipcseie" alt="GitHub Streak" style="filter: brightness(50%); float: left;">
+    <img src="https://streak-stats.demolab.com/?user=lipcseie" alt="GitHub Streak" style="filter: brightness(100%); float: left;">
   </a>
 </p>
 
