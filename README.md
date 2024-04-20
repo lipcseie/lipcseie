@@ -47,7 +47,8 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <br />
 
 <div style="text-align: left; filter: brightness(50%);">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=lipcseie)](https://git.io/streak-stats)
+  [![GitHub Streak](https://example.com/darkened-image.png)](https://git.io/streak-stats)
+
 </div>
 
 
