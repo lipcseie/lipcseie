@@ -48,9 +48,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <div style="padding-top: 20px;">
-    <img src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
-    </div>
+    <img style="padding-top: 20px;" src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
