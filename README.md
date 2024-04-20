@@ -37,7 +37,6 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
   </a>
 </p>
 
-
 ## 💻 Languages and Tools
 
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
