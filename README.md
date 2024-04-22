@@ -53,8 +53,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
   </a>
 </p>
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark&exclude_repo=repo1,repo2)
+
 
 
 
