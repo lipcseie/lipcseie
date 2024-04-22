@@ -46,7 +46,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <br />
 
 
-## Github  Streak Stats
+## 🔥 Github  Streak Stats
 
 <p align="left">
   <a href="https://git.io/streak-stats">
