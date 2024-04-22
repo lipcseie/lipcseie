@@ -46,9 +46,15 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 <br />
 
 
+## Github  Streak Stats
 
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img style="padding-top: 20px; margin-bottom: 20px;" src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark&exclude_repo=repo1,repo2)
 
 
 
