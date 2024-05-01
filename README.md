@@ -25,7 +25,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
   <a href="mailto:mailto:lipcsei.e@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/edit-lipcsei-229091278/" target="_blank">
+  <a href="https://www.linkedin.com/in/editlipcsei1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
