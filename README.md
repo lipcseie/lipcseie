@@ -55,9 +55,13 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
+  <a href="https://git.io/streak-stats">
+    [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
