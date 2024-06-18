@@ -55,7 +55,8 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
   </a>
 </p>
 
-https://img.shields.io/github/languages/top/lipcseie/lipcseie
+![Top Languages](https://img.shields.io/github/languages/top/lipcseie/lipcseie)
+
 
 
 
