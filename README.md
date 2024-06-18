@@ -57,6 +57,9 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
