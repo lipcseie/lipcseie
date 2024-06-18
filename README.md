@@ -50,13 +50,12 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
 
 ## 🔥 GitHub Streak Stats
 
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=lipcseie&theme=dark" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipcseie&layout=compact&theme=dark" alt="GitHub Stats" /></td>
+  </tr>
+</table>
 
 
 
