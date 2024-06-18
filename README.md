@@ -29,7 +29,7 @@ I'm always eager to connect with fellow coders, creators, and dreamers. Whether 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://editlipcsei.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
 
